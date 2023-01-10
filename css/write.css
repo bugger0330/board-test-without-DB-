@@ -1,0 +1,144 @@
+.board-main{
+    margin-top: 100px;
+}
+
+.board-content{
+    width: 1000px;
+    height: 750px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 10px;
+    background-color: aliceblue;
+}
+
+.line{
+    margin: 10px 0;
+}
+
+.title-box{
+    font-size: 50px;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-box{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.content-line{
+    display: flex;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.line1{
+    width: 100px;
+    padding: 10px 0;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.line2{
+    width: 80%;
+}
+
+.input-items{
+    width: 100%;
+    padding: 5px 0 5px 10px;
+    margin: 0;
+    font-size: 25px;
+}
+.input-items2{
+    width: 100%;
+    height: 300px;
+    padding: 5px 0 5px 10px;
+    margin: 0;
+    resize: none;
+    font-size: 25px;
+}
+
+.input-items3{
+    width: 100%;
+    padding: 10px 0 5px 10px;
+    margin: 0;
+    font-size: 25px;
+}
+
+.button-area{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-box{
+    padding: 20px;
+    display: flex;
+}
+
+.btn{
+    width: 200px;
+    padding: 10px 0;
+    font-size: 35px;
+    margin-right: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(255, 0, 255, 0.5);
+    cursor: pointer;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
